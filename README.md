@@ -6,7 +6,7 @@
 
 用法: `./FindProv.sh 'MyDevelopProvisioning'`
 
-## [iResion](./iReSign)
+## [iReSign](./iReSign)
 
 重签名工具，工具作者是[iReSign](https://github.com/maciekish/iReSign)
 
