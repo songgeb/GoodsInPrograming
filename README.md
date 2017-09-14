@@ -14,3 +14,11 @@
 
 **NOTE：** (2017年09月10日)测试时，第三栏`entitlements.plist`必须要设置。设置方法可以参考如下：
 ![](images/resign_entitlement.png)
+
+## [MPEG_Streamclip](./video/MPEG_Streamclip_1.9.2.dmg)
+
+官方网站:[squared5](http://www.squared5.com/)
+
+mac系统中可以修改视频分辨率、码率等参数的工具，只有1.3MB，方便好用
+
+![MPEG_Streamclip](images/MPEG_Streamclip.png)
